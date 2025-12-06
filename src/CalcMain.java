@@ -16,7 +16,7 @@ public class CalcMain {
 
     /**
      * addNumbers - adds two integer numbers together, return result.
-     * @param numa integer number
+     * @param numa integer    number
      * @param numb integer number
      * @return int total
      */
